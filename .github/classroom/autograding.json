@@ -3,7 +3,7 @@
     {
       "name": "Test",
       "setup": "pip3 install pyarrow pandas ",
-      "run": "python3 test.py",
+      "run": "python3 test.py 01 && python3 test.py 02 && python3 test.py 03 && python3 test.py 04 && python3 test.py 05 && python3 test.py 06 && python3 test.py 07 && python3 test.py 08 && python3 test.py 09 && python3 test.py 10 && python3 test.py 11 && python3 test.py 12 && python3 test.py 13",
       "input": "",
       "output": "",
       "comparison": "exact",
